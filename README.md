@@ -1,0 +1,2 @@
+# komporcoin
+Komporcoin
